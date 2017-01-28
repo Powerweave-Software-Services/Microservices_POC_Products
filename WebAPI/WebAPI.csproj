@@ -310,6 +310,7 @@
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="Mongo DB\EmployeeDB\Products.bson" />
     <Content Include="Mongo DB\EmployeeDB\Products.metadata.json" />
+    <None Include="Properties\PublishProfiles\Alfred_Products.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
